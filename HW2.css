@@ -11,7 +11,8 @@ h1, h2 {
    color: rgb(100, 30, 110); }
 
 ol {
-  list-style-type: decimal-leading-zero; }
+  list-style-type: decimal-leading-zero; 
+  color: rgb(100, 30, 110);}
   
 ul {
   list-style-type: square; }
